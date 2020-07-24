@@ -2,6 +2,7 @@
 The recursive backtracking algorithm for generating small to medium size of mazes
 
 I didn't upload the Library file to save some uploading time
+  <img src="https://github.com/YuzhouGuo/MazeGeneration_RecursiveBacktracking/blob/master/VIdeo_Demos/Screen%20Shot%202020-07-18%20at%204.55.28%20AM.png">
 
 ### A quick demonstration:
 To show the result of this project, we may see the code improvement from three stages:
