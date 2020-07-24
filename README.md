@@ -8,12 +8,12 @@ To show the result of this project, we may see the code improvement from three s
 
 * Stage one (Using OOP and create instance for each cell in the maze)
 
-[![Slowest](https://gifs.com/gif/slowest-mOp3z0)](https://gifs.com/gif/slowest-mOp3z0)
+![Slowest](Video_Demos/slowest.gif)
 
-* Stage two (based on A*, with wall-avoiding algorithm added, you can see that the path is now trying to get to the middle of the path so that it is more human-like)
+* Stage two (Using Bitwise Operation instead of creating objects)
 
-  <img src="https://github.com/YuzhouGuo/humanLikePathFinding/blob/master/stage2.png" width="400" height="400">
+![UsingBits](Video_Demos/usingBits.gif)
 
-* Stage three (with advanced wall-avoiding strategy, and Bezier curve applied, visually more smooth)
+* Stage three (We don't draw the animations during Update() and use the algorithm for building only)
 
-  <img src="https://github.com/YuzhouGuo/humanLikePathFinding/blob/master/stage3.png" width="400" height="400">
+![WithoutDrawing](Video_Demos/withoutDrawing.gif)
