@@ -8,12 +8,12 @@ To show the result of this project, we may see the code improvement from three s
 
 * Stage one (Using OOP and create instance for each cell in the maze)
 
-[![Slowest](https://github.com/YuzhouGuo/MazeGeneration_RecursiveBacktracking/tree/master/VIdeo_Demos/slowest.gif)]
+[![Slowest - Click me to view!](https://github.com/YuzhouGuo/MazeGeneration_RecursiveBacktracking/tree/master/VIdeo_Demos/slowest.gif)]
 
 * Stage two (Using Bitwise Operation instead of creating objects)
 
-[![UsingBits]](https://github.com/YuzhouGuo/MazeGeneration_RecursiveBacktracking/tree/master/VIdeo_Demos/usingBits.gif)
+[![UsingBits - Click me to view!](https://github.com/YuzhouGuo/MazeGeneration_RecursiveBacktracking/tree/master/VIdeo_Demos/usingBits.gif)]
 
 * Stage three (We don't draw the animations during Update() and use the algorithm for building only)
 
-[![WithoutDrawing]](https://github.com/YuzhouGuo/MazeGeneration_RecursiveBacktracking/tree/master/VIdeo_Demos/withoutDrawing.gif)
+[![WithoutDrawing - Click me to view!](https://github.com/YuzhouGuo/MazeGeneration_RecursiveBacktracking/tree/master/VIdeo_Demos/withoutDrawing.gif)]
