@@ -8,7 +8,7 @@ To show the result of this project, we may see the code improvement from three s
 
 * Stage one (Using OOP and create instance for each cell in the maze)
 
-<iframe src='//gifs.com/embed/slowest-mOp3z0' frameborder='0' scrolling='no' width='966px' height='588px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+[![Slowest](https://gifs.com/gif/slowest-mOp3z0)]
 
 * Stage two (based on A*, with wall-avoiding algorithm added, you can see that the path is now trying to get to the middle of the path so that it is more human-like)
 
